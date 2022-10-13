@@ -1,3 +1,4 @@
 {
-  "liveServer.settings.multiRootWorkspaceName": "fe-72"
+  "liveServer.settings.multiRootWorkspaceName": "fe-72",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
